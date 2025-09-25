@@ -94,3 +94,55 @@ Projenin tamamını ve çalışan kodları aşağıdaki Kaggle notebook'tan ince
 
 **Not:** Lütfen versiyon 1'e bakınız. Versiyon 2 sadece "Run All" işlemi için kaydedilmiştir.
 
+---
+
+## 🚀 Kaggle'da Çalıştırma Talimatları
+
+### 1. Notebook'a Erişim
+Aşağıdaki linkten Kaggle notebook'una gidin:
+
+[📓 Kaggle Notebook - Derin Öğrenme CNN Projesi](https://www.kaggle.com/code/recepbaak/derin-renme-cnn-projesi/notebook)
+
+**⚠️ Dikkat:** Lütfen **Versiyon 1**'i kullanın. Versiyon 2 sadece "Run All" için kaydedilmiştir.
+
+### 2. Ortamı Hazırlama
+- Kaggle hesabınızla giriş yapın
+- "Copy and Edit" butonuna tıklayarak kendi kopyanızı oluşturun
+- Sağ üstteki "Save Version" butonundan kaydedin
+
+### 3. Veri Seti Erişimi
+Notebook otomatik olarak Dogs vs. Cats veri setine erişecektir. Eğer erişim sorunu olursa:
+- Sağ panelde "Add Data" butonuna tıklayın
+- "Dogs vs. Cats" aratın
+- Veri setini ekleyin
+
+### 4. Kodları Çalıştırma
+**Seçenek 1: Tümünü Çalıştır**
+- Üst menüden "Run All" butonuna tıklayın
+- Tüm hücreler sırayla çalışacaktır
+
+**Seçenek 2: Adım Adım Çalıştır**
+- Her hücreyi teker teker seçip "Run" butonuna tıklayın
+- Hücre çıktılarını gözlemleyin
+
+### 5. Çıktıları Görüntüleme
+- Her hücrenin altında çıktıları görebilirsiniz
+- Grafikler ve metrikler otomatik olarak görünecektir
+- Model eğitim süreci canlı olarak izlenebilir
+
+### ⏱️ Tahmini Çalıştırma Süresi
+- **GPU ile:** ~15-20 dakika
+- **CPU ile:** ~45-60 dakika
+
+### 💡 Önemli Notlar
+- Internet bağlantısı "ON" olmalıdır
+- GPU accelerator önerilir (sağ panelden ayarlanabilir)
+- Herhangi bir hata durumunda notebook'u yeniden başlatın
+
+## 🔧 Teknik Gereksinimler
+- **Kaggle Ortamı:** Python 3.10+
+- **GPU:** Tesla P100 veya eşdeğeri (önerilir)
+- **Bellek:** 16GB+ RAM
+- **Disk Alanı:** 5GB+ boş alan
+
+**Not:** Tüm kodlar Kaggle ortamında test edilmiş ve çalışır durumdadır. 🎯
