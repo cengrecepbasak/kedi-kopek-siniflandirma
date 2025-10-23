@@ -62,8 +62,8 @@ Bu projede, **Dogs vs. Cats** veri seti kullanılarak derin öğrenme tabanlı b
 
 accuracy                           0.95      5000
 
-macro avg 0.96 0.95 0.95 5000
-weighted avg 0.96 0.95 0.95 5000
+- macro avg 0.96 0.95 0.95 5000
+- weighted avg 0.96 0.95 0.95 5000
 
 
 - **Precision (Kedi):** %97
