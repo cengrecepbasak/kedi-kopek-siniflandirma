@@ -57,10 +57,10 @@ Bu projede, **Dogs vs. Cats** veri seti kullanılarak derin öğrenme tabanlı b
 
           precision    recall  f1-score   support
 
-    Kedi       0.97      0.94      0.95      2500
-   Köpek       0.94      0.97      0.96      2500
+Kedi       0.97      0.94      0.95      2500
+Köpek       0.94      0.97      0.96      2500
 
-accuracy                           0.95      5000
+accuracy                        0.95      5000
 
 - macro avg 0.96 0.95 0.95 5000
 - weighted avg 0.96 0.95 0.95 5000
