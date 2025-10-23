@@ -55,9 +55,10 @@ Bu projede, **Dogs vs. Cats** veri seti kullanılarak derin öğrenme tabanlı b
 
 ### Detaylı Sınıflandırma Raporu
 
+
           precision    recall  f1-score   support
 
-   - Kedi       0.97      0.94      0.95      2500
+   - Kedi        0.97      0.94      0.95      2500
    - Köpek       0.94      0.97      0.96      2500
 
 accuracy                           0.95      5000
