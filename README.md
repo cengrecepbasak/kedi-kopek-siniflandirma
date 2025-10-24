@@ -93,7 +93,7 @@ Projenin tamamını ve çalışan kodları aşağıdaki Kaggle notebook'tan ince
 
 [📓 Kaggle Notebook - Derin Öğrenme CNN Projesi](https://www.kaggle.com/code/recepbaak/derin-renme-cnn-projesi/notebook)
 
-**Not:** Lütfen versiyon 1'e bakınız. Versiyon 2 sadece "Run All" işlemi için kaydedilmiştir.
+**Not:** Versiyon 1'e bakınız. Versiyon 2 sadece "Run All" işlemi için kaydedilmiştir.
 
 ---
 
@@ -104,7 +104,7 @@ Aşağıdaki linkten Kaggle notebook'una gidin:
 
 [📓 Kaggle Notebook - Derin Öğrenme CNN Projesi](https://www.kaggle.com/code/recepbaak/derin-renme-cnn-projesi/notebook)
 
-**⚠️ Dikkat:** Lütfen **Versiyon 1**'i kullanın. Versiyon 2 sadece "Run All" için kaydedilmiştir.
+**⚠️ Dikkat:** **Versiyon 1**'i kullanın. Versiyon 2 sadece "Run All" için kaydedilmiştir.
 
 ### 2. Ortamı Hazırlama
 - Kaggle hesabınızla giriş yapın
